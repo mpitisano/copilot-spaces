@@ -73,6 +73,40 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+## Scrum Master 
+
+### Role Summary
+Facilitates ceremonies and removes blockers
+
+## UX Designer  
+
+### Role Summary
+user-centered design and research
+
+## Business Analyst  
+
+### Role Summary
+Bridges business and technical needs
+
+## Technical Writer 
+
+### Role Summary
+creates and maintains documentation
+
+## DevOps Engineer 
+
+### Role Summary
+Manages infrastructure and CI/CD
+
+## Support & Customer Success 
+
+### Role Summary
+voice of the customer
+
+## Executive Sponsor
+### Role Summary
+strategic leadership and resources
+
 ---
 
 ## How these personas are used in the exercise
